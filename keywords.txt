@@ -1,0 +1,5 @@
+SensorData	KEYWORD1
+getAverage	KEYWORD2
+getLastReadings	KEYWORD2
+addReading	KEYWORD2
+addReadings	KEYWORD2
